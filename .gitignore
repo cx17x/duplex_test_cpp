@@ -1,0 +1,10 @@
+/.vscode/
+/virtual_serial
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.dSYM/
+.DS_Store
+/build/
